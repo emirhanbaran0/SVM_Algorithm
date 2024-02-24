@@ -61,11 +61,11 @@ When preparing the code, we considered the parameters the algorithm takes and pr
 ## 🛠️ Challenges in the Project:
 Throughout the project, there was no specific place where we struggled or lost time. The abundance of Turkish and English resources, especially, was very helpful for us. By the end of the project, we learned the Support Vector Machines (SVM) machine learning algorithm by testing its working logic in an applied way. Additionally, understanding the algorithm's application areas allows us to provide solutions to similar problems we may encounter in the future.
 
-## 📚 Resources:
-- [A tutorial on support vector machine](#) [1]
-- [A tutorial for support vector machine](#) [22]
-- [Support vector machines in engineering: an overview](#) [33]
-- [A review on support vector machine for data classification](#) [44]
-- [Support vector machine in machine condition monitoring and fault diagnosis](#) [55]
+##Example Result with a DataSet
+
+###Input
+![input][https://github.com/emirhanbaran0/SVM_Algorithm/blob/main/SVM_Algorithm/input.png]
+###Output
+![output][https://github.com/emirhanbaran0/SVM_Algorithm/blob/main/SVM_Algorithm/output.png]
 
 
