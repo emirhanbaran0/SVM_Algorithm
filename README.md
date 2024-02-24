@@ -64,8 +64,8 @@ Throughout the project, there was no specific place where we struggled or lost t
 ## Example Result with a DataSet
 
 ### Input
-![input][https://github.com/emirhanbaran0/SVM_Algorithm/blob/main/SVM_Algorithm/input.png]
+![input](https://github.com/emirhanbaran0/SVM_Algorithm/blob/main/SVM_Algorithm/input.png)
 ### Output
-![output][https://github.com/emirhanbaran0/SVM_Algorithm/blob/main/SVM_Algorithm/output.png]
+![output](https://github.com/emirhanbaran0/SVM_Algorithm/blob/main/SVM_Algorithm/output.png)
 
 
